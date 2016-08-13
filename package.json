@@ -1,0 +1,15 @@
+{
+  "name": "24_kifu_downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zakuni",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio-httpcli": "^0.6.8"
+  }
+}
